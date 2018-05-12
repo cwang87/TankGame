@@ -1,1 +1,4 @@
-Since the pakcage is too big, I uploaded it to Canvas.
+Due the unity pakcage is too large, we can't upload it to github. We put it in the Google Drive instead.
+
+Google Drive share link: 
+https://drive.google.com/file/d/1qQxZnUkjxr_4EmUN4WI1uUzxeTv55U_3/view
