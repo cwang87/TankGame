@@ -9,7 +9,9 @@ HCI Final Project
 * Affective 3.2
 
 ## Game Importing Guid ##
-* Down the game package.(Since the pakcage is too big, I uploaded it to Canvas)
+* Down the game package.
+(Due the unity pakcage is too large, we upload it into Google Drive instead.
+https://drive.google.com/file/d/1qQxZnUkjxr_4EmUN4WI1uUzxeTv55U_3/view)
 * Create an empty unity project
 * Following the link here to import this package into unity
   *  https://docs.unity3d.com/Manual/AssetPackages.html
