@@ -25,3 +25,4 @@ https://drive.google.com/file/d/1qQxZnUkjxr_4EmUN4WI1uUzxeTv55U_3/view)
   * $pip3 install jupyter
 * run jupyter notebook
   *  $jupyter notebook
+* install tensorflow & keras
